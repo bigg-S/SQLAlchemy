@@ -1,0 +1,1 @@
+9999999999{"name": "colour-runner", "version": "0.1.1", "summary": "Colour formatting for unittest tests", "platform": "", "requires_dist": ["blessings", "pygments"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

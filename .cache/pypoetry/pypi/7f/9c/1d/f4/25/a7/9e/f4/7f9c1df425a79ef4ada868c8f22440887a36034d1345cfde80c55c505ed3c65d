@@ -1,0 +1,1 @@
+9999999999{"name": "lru-dict", "version": "1.2.0", "summary": "An Dict like LRU container.", "platform": null, "requires_dist": ["pytest ; extra == 'test'"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

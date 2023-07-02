@@ -1,0 +1,1 @@
+9999999999{"name": "codecov", "version": "2.1.13", "summary": "Hosted coverage reports for GitHub, Bitbucket and Gitlab", "platform": null, "requires_dist": ["requests (>=2.7.9)", "coverage"], "requires_python": ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*", "files": [], "_cache_version": "1.0.0"}
